@@ -1,1 +1,3 @@
-print(test)
+#some comment
+def hello():
+	print("something")
