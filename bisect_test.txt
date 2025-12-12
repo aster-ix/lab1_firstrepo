@@ -1,1 +1,1 @@
-v2 - bisect test (working)
+v3 - bisect test (bug)
